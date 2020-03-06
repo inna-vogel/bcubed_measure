@@ -10,7 +10,7 @@ The examples are taken from this paper:
 
 In the paper the authors analyzed a wide range of metrics and showed that only BCubed satisfies all formal constraints. However, it is not suitable for overlapping clustering evaluation. 
 
-## How is BCubed Precision and BCubed Recall calculated?
+## How is BCubed Precision, Recall and F-BCube calculated?
 
 Precision represents how many items in the same cluster belong to its category. 
 The Recall associated to one item represents how many items from its category appear in its cluster. [2]
